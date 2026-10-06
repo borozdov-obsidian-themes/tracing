@@ -43,10 +43,14 @@ lines carry every link and rule, one green ping marks the caret and what's done.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Tracing**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Tracing** under Style Settings → Borozdov Utility → Variant. The variant brings
+this theme's palette, type and corners; its own layout, and its embedded font if it has
+one, come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/tracing/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Tracing/`, then choose Borozdov Tracing under
 Settings → Appearance → Themes.
@@ -60,5 +64,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Redline» — белый инженерный
 чертёж, и тёмный «Floodlight» — тот же чертёж под ночным прожектором. Сине-фиолетовые линии
 трассировки несут каждую ссылку и правило, один зелёный пинг отмечает курсор и выполненную
-задачу. Шрифты не встроены. Устанавливается из каталога: Настройки → Оформление → Темы →
-Настроить → Borozdov Tracing → Установить и применить.
+задачу. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Tracing в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
